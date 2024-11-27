@@ -1,0 +1,41 @@
+{
+  "ACTIVE": "Y",
+  "CODE": "belts",
+  "CREATED_BY": "1",
+  "DATE_CREATE": "31.03.2023 17:55:16",
+  "DEPTH_LEVEL": "2",
+  "DESCRIPTION": "Модные женские пояса и ремни – это атрибут современной и стильной женщины, а также часть тщательно продуманного наряда. Придерживают ли они брюки на своем месте или эффектно подчеркивают талию, выполняют декоративную функцию или чисто практичную – не важно.",
+  "DESCRIPTION_TYPE": "html",
+  "DETAIL_PICTURE": {
+      "ORIGINAL": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png",
+      "RESIZE": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png"
+  },
+  "EXTERNAL_ID": "33",
+  "GLOBAL_ACTIVE": "Y",
+  "IBLOCK_CODE": "clothes",
+  "IBLOCK_EXTERNAL_ID": "clothes_s1",
+  "IBLOCK_ID": "2",
+  "IBLOCK_SECTION_ID": "12",
+  "IBLOCK_TYPE_ID": "catalog",
+  "ID": "13",
+  "LEFT_MARGIN": "24",
+  "LIST_PAGE_URL": "#SITE_DIR#/catalog/",
+  "MODIFIED_BY": "1",
+  "NAME": "Ремни",
+  "PICTURE": {
+      "ORIGINAL": "/upload/iblock/b48/xdvtrwn6yrsimr3m3pk1ibd1t4l1s943.jpg",
+      "RESIZE": "/upload/resize_cache/iblock/b48/200_200_1/xdvtrwn6yrsimr3m3pk1ibd1t4l1s943.jpg"
+  },
+  "PREVIEW_PICTURE": {
+      "ORIGINAL": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png",
+      "RESIZE": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png"
+  },
+  "RIGHT_MARGIN": "29",
+  "SEARCHABLE_CONTENT": "РЕМНИ\r\nМОДНЫЕ ЖЕНСКИЕ ПОЯСА И РЕМНИ – ЭТО АТРИБУТ \r\nСОВРЕМЕННОЙ И СТИЛЬНОЙ ЖЕНЩИНЫ, А ТАКЖЕ ЧАСТЬ ТЩАТЕЛЬНО ПРОДУМАННОГО НАРЯДА. ПРИДЕРЖИВАЮТ ЛИ ОНИ БРЮКИ НА СВОЕМ МЕСТЕ ИЛИ ЭФФЕКТНО ПОДЧЕРКИВАЮТ ТАЛИЮ, ВЫПОЛНЯЮТ ДЕКОРАТИВНУЮ ФУНКЦИЮ ИЛИ ЧИСТО ПРАКТИЧНУЮ – НЕ ВАЖНО.",
+  "SECTION_PAGE_URL": "#SITE_DIR#/catalog/#SECTION_CODE#/",
+  "SOCNET_GROUP_ID": null,
+  "SORT": "500",
+  "TIMESTAMP_X": "31.03.2023 17:55:16",
+  "TMP_ID": null,
+  "XML_ID": "33"
+}

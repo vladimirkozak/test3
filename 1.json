@@ -1,0 +1,41 @@
+{
+  "ACTIVE": "Y",
+  "CODE": "accessories",
+  "CREATED_BY": "1",
+  "DATE_CREATE": "31.03.2023 17:55:16",
+  "DEPTH_LEVEL": "1",
+  "DESCRIPTION": "Без аксессуаров вряд ли получится создать стильный, завершенный и индивидуальный образ. Важно обращать внимание на то, насколько гармонично такие элементы будут смотреться в сочетании с тем или иным стилем в одежде, в рамках какого-либо мероприятия.<br />",
+  "DESCRIPTION_TYPE": "html",
+  "DETAIL_PICTURE": {
+      "ORIGINAL": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png",
+      "RESIZE": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png"
+  },
+  "EXTERNAL_ID": "24",
+  "GLOBAL_ACTIVE": "Y",
+  "IBLOCK_CODE": "clothes",
+  "IBLOCK_EXTERNAL_ID": "clothes_s1",
+  "IBLOCK_ID": "2",
+  "IBLOCK_SECTION_ID": null,
+  "IBLOCK_TYPE_ID": "catalog",
+  "ID": "12",
+  "LEFT_MARGIN": "23",
+  "LIST_PAGE_URL": "#SITE_DIR#/catalog/",
+  "MODIFIED_BY": "1",
+  "NAME": "Аксессуары",
+  "PICTURE": {
+      "ORIGINAL": "/upload/iblock/b48/xdvtrwn6yrsimr3m3pk1ibd1t4l1s943.jpg",
+      "RESIZE": "/upload/resize_cache/iblock/b48/200_200_1/xdvtrwn6yrsimr3m3pk1ibd1t4l1s943.jpg"
+  },
+  "PREVIEW_PICTURE": {
+      "ORIGINAL": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png",
+      "RESIZE": "/bitrix/components/bitrix/catalog.section/templates/.default/images/no_photo.png"
+  },
+  "RIGHT_MARGIN": "30",
+  "SEARCHABLE_CONTENT": "АКСЕССУАРЫ\r\nБЕЗ АКСЕССУАРОВ ВРЯД ЛИ ПОЛУЧИТСЯ СОЗДАТЬ \r\nСТИЛЬНЫЙ, ЗАВЕРШЕННЫЙ И ИНДИВИДУАЛЬНЫЙ ОБРАЗ. ВАЖНО ОБРАЩАТЬ ВНИМАНИЕ НА ТО, НАСКОЛЬКО ГАРМОНИЧНО ТАКИЕ ЭЛЕМЕНТЫ БУДУТ СМОТРЕТЬСЯ В СОЧЕТАНИИ С ТЕМ ИЛИ ИНЫМ СТИЛЕМ В ОДЕЖДЕ, В РАМКАХ КАКОГО-ЛИБО МЕРОПРИЯТИЯ.",
+  "SECTION_PAGE_URL": "#SITE_DIR#/catalog/#SECTION_CODE#/",
+  "SOCNET_GROUP_ID": null,
+  "SORT": "700",
+  "TIMESTAMP_X": "31.03.2023 17:55:16",
+  "TMP_ID": null,
+  "XML_ID": "24"
+}

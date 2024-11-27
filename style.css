@@ -1,0 +1,57 @@
+body {
+  scrollbar-width: thin;
+  scrollbar-color: #7387d4 #F8F8F8;
+}
+
+html {
+  overflow: hidden;
+}
+
+body {
+  /* height: 100vh; */
+  overflow-y: auto;
+  max-width: 310px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.wrap {
+  /* position: relative; */
+  width: 200px;
+  height: 20px;
+  border: 1px solid red;
+  transition: width 1s;
+}
+
+.close {
+  text-align: right;
+  margin-right: 10px;
+  /* top: 10px;
+  right: 10px;
+  position: absolute; */
+}
+
+.wrap:hover {
+  width: 300px;
+}
+
+
+#Main svg:hover {
+  fill: #fce57e;
+  stroke: #fce57e;
+}
+
+#Main svg:hover path {
+  fill: #fce57e;
+  stroke: #fce57e;
+}
+
+#Main svg:hover plygon {
+  fill: #fce57e;
+  stroke: #fce57e;
+}
+
+#Main svg:hover circle {
+  fill: #fce57e;
+  stroke: #fce57e;
+}
